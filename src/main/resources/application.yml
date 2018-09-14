@@ -1,0 +1,11 @@
+logging:
+  level:
+    root: INFO
+    com:
+      auth0:
+        samples: DEBUG
+    org:
+      springframework:
+        security: DEBUG
+      apache:
+        tomcat: WARN
